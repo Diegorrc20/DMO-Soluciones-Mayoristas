@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
             nombre: "Diego Rodríguez",
             rol: "Desarrollador Web",
             descripcion: "Encargado de programar la página web y subir los contenidos.",
-            imagen: "Imagenes/Diego.png"
+            imagen: "Diego.png"
         },
         {
             nombre: "Marcela Santiago",
@@ -26,13 +26,13 @@ document.addEventListener("DOMContentLoaded", function () {
             nombre: "Juan Castro",
             rol: "Gestor de Ventas",
             descripcion: "Atención a clientes y catálogo de productos mayoristas.",
-            imagen: "Imagenes/Juan Castro.png"
+            imagen: "Juan Castro.png"
         },
         {
             nombre: "Carla Gutiérrez",
             rol: "Revisión y Pruebas",
             descripcion: "Pruebas de funcionamiento y corrección de errores en el sitio.",
-            imagen: "Imagenes/Carla Gutiérrez.png"
+            imagen: "Carla Gutiérrez.png"
         }
     ];
 
